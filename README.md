@@ -17,5 +17,7 @@ Hi folks! First and foremost, thank you for considering my code to run your Eezy
   This code is only a start! I would like to add a function and a button to loop a recorded path (right now it runs it only once) This shouldn't be too bad. Eventually I'd like to set some real cartesian coordonates to manipulate it, but it looks rather complicated and I am not able to do it at the moment. 
    
    Feel free to comment, use, modify, swear or curse this code! :) 
+   
+   https://www.youtube.com/watch?v=-czi_Fb30Ds&t=2s to see it in action!
 
 ![20210428_124715](https://user-images.githubusercontent.com/81876951/116444084-5c8c8700-a822-11eb-8304-6fdb869e4cab.jpg)
